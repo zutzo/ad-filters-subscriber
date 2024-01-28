@@ -23,6 +23,8 @@ application:
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
+       - name: "AdRules"
+       - path: "https://adrules.top/dns.txt"
 
     #本地规则请将文件放置到项目路径rule目录中
     local:
