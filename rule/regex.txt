@@ -1,9 +1,10 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-01-30 00:08:46
+! Last Modified: 2024-01-30 08:35:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
+||ads-*-nfl.yinzcam.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||a*.chajiaotong.com^
@@ -216,11 +217,9 @@
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
 ||piwik.*.vn^
-||production-adserver-*.amazonaws.com^
 ||piwik.*.com.vn^
 ||ping.*.sogou.com^
 ||opnked*.xyz^
-||promo-*.vercel.app^
 ||pixel-*.rubiconproject.com^
 ||p*-ad-sign.byteimg.com^
 ||p26.gejulm*.com^
@@ -232,12 +231,14 @@
 ||report*.appmetrica.webvisor.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||sell*.etlong.com^
+||production-adserver-*.amazonaws.com^
 ||sense-*.tapdb.net^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
+||promo-*.vercel.app^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
 ||sam*.baby-kingdom.com^
