@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-01-31 00:09:36
+! Last Modified: 2024-01-31 08:35:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -38,10 +38,12 @@
 ||adcs-*.myappsget.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||adx-*.op.dbankcloud.com.edgekey.net^
+||bd*-ys.km.com^
 ||aj2*.online^
 ||adv0*.msa.cdn.mediaset.net^
 ||adsfilebssdlbig.*.kugou.com^
 ||ana*.inews24.com^
+||bdlm*.hc360.com^
 ||aj1*.xyz^
 ||analytics-*-nfl.yinzcam.com^
 ||analytics*.carambo.la^
@@ -79,7 +81,6 @@
 ||batchlogging*-noneu.truecaller.com^
 ||asd8900.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||bd*-ys.km.com^
 ||collector-*.px-client.net^
 ||collector-*.us.tvsquared.com^
 ||clog*.yuanfudao.com^
@@ -88,9 +89,9 @@
 ||browser-intake-*-datadoghq.com^
 ||ce-global-track-*.amazonaws.com^
 ||beacons*.gvt3.com^
-||bdlm*.hc360.com^
 ||collector.hamsterix.*^
 ||bj*.9669.cn^
+||counter*.stat.ovh^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||bjkedv*.xyz^
@@ -101,6 +102,7 @@
 ||cdn-adn-*.rayjump.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||bj1*.online^
+||counter*-yadro*-ru.unblocked.lol^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
@@ -112,12 +114,10 @@
 ||dn*.ixinwei.com^
 ||dm-*.toutiao.com^
 ||d*.wanzhuang.com^
-||counter*.stat.ovh^
 ||d*.xinshipu.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||dj1*.online^
 ||display-ad-*.kgslb.com^
-||counter*-yadro*-ru.unblocked.lol^
 ||device-metrics-*.amazon.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ej1*.online^
@@ -128,6 +128,7 @@
 ||fads*s.com^
 ||fanpingbi*.gaokao.com^
 ||fp-*it*.fengkongcloud.com^
+||gg*.miguvideo.com^
 ||gads*s.com^
 ||events-*.op.hicloud.com^
 ||flurry.agentportal.*.yahoodns.net^
@@ -148,7 +149,6 @@
 ||hstats*.hepsiburada.com^
 ||hads*s.com^
 ||impservice*.youdao.com^
-||gg*.miguvideo.com^
 ||hn-ping*.hashnode.com^
 ||iad-*.appboy.com^
 ||impservice*.yodao.com^
@@ -167,30 +167,31 @@
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||liveweb*.msstatic.com^
 ||iptracker-lb-*.amazonaws.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||log-*.epicdn.me^
 ||js.*2023*.live^
 ||log*-misc-lq.amemv.com^
 ||logger-*.dailymotion.com^
 ||log*.vietnamplus.vn^
+||jtbo*.nqxvevk.cn^
+||liveme-sensors-collect2-*.amazonaws.com^
+||ja*.gamersky.com^
+||log-*.previewnetworks.com^
+||lively-collect-elb-*.amazonaws.com^
+||mads*z.com^
+||lt*.tritondigital.com^
+||maas-*.phunware.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||log-*.epicdn.me^
 ||log*-misc-lf.amemv.com^
 ||js.*2023*.xyz^
-||jtbo*.nqxvevk.cn^
 ||livetracker.*.pangea-cms.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||logservice-*.platform.dbankcloud.cn^
-||liveme-sensors-collect2-*.amazonaws.com^
 ||log*.aliyuncs.com^
 ||js*.abolezi.com^
-||ja*.gamersky.com^
-||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
-||lively-collect-elb-*.amazonaws.com^
 ||log*.byteoversea.com^
-||lt*.tritondigital.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||maas-*.phunware.com^
 ||marketplace-*.hyprmx.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mediate-ios-*.hyprmx.com^
@@ -208,7 +209,6 @@
 ||matomo.*.vn^
 ||mon-*.tiktokv.com^
 ||n*adserv.com^
-||mads*z.com^
 ||mon*-*.tiktokv.us^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||pixel*.production-public.tubi.io^
@@ -217,9 +217,11 @@
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
 ||piwik.*.vn^
+||production-adserver-*.amazonaws.com^
 ||piwik.*.com.vn^
 ||ping.*.sogou.com^
 ||opnked*.xyz^
+||promo-*.vercel.app^
 ||pixel-*.rubiconproject.com^
 ||p*-ad-sign.byteimg.com^
 ||p26.gejulm*.com^
@@ -231,14 +233,12 @@
 ||report*.appmetrica.webvisor.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||sell*.etlong.com^
-||production-adserver-*.amazonaws.com^
 ||sense-*.tapdb.net^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
-||promo-*.vercel.app^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
 ||sam*.baby-kingdom.com^
@@ -259,6 +259,7 @@
 ||static*.365inews.com^
 ||stats2.*.fdnames.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
+||trk*.vidible.tv^
 ||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
@@ -272,18 +273,17 @@
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||widgets.*.webengage.com^
+||util-*.simply-hentai.com^
 ||tupian888.*.bcebos.com^
 ||uc*.atobo.com^
-||ulog*.*^
-||v*.denakop.com^
-||w*.*skwai.com^
-||trk*.vidible.tv^
-||util-*.simply-hentai.com^
 ||v*-ad.video.yximgs.com^
+||ulog*.*^
 ||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
+||v*.denakop.com^
+||w*.*skwai.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
