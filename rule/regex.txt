@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-01-31 16:09:49
+! Last Modified: 2024-02-01 00:09:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -91,7 +91,6 @@
 ||beacons*.gvt3.com^
 ||collector.hamsterix.*^
 ||bj*.9669.cn^
-||counter*.stat.ovh^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||bjkedv*.xyz^
@@ -114,6 +113,7 @@
 ||dn*.ixinwei.com^
 ||dm-*.toutiao.com^
 ||d*.wanzhuang.com^
+||counter*.stat.ovh^
 ||d*.xinshipu.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||dj1*.online^
