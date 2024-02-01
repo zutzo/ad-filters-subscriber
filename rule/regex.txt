@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-01 00:09:21
+! Last Modified: 2024-02-01 08:37:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -61,6 +61,7 @@
 ||batchlogging*-eu.truecaller.com^
 ||api.*.hismarttv.com^
 ||aj3*.bid^
+||beacons*.gvt3.com^
 ||aj1*.online^
 ||ap*.jj20.com^
 ||aem-collector-*.kgslb.com^
@@ -88,9 +89,9 @@
 ||cj1*.online^
 ||browser-intake-*-datadoghq.com^
 ||ce-global-track-*.amazonaws.com^
-||beacons*.gvt3.com^
 ||collector.hamsterix.*^
 ||bj*.9669.cn^
+||counter*.stat.ovh^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||bjkedv*.xyz^
@@ -113,7 +114,6 @@
 ||dn*.ixinwei.com^
 ||dm-*.toutiao.com^
 ||d*.wanzhuang.com^
-||counter*.stat.ovh^
 ||d*.xinshipu.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||dj1*.online^
@@ -170,6 +170,7 @@
 ||js.*2023*.live^
 ||log*-misc-lq.amemv.com^
 ||logger-*.dailymotion.com^
+||mapi-log.qoo*.jp^
 ||log*.vietnamplus.vn^
 ||jtbo*.nqxvevk.cn^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -200,7 +201,6 @@
 ||mobileoffers-*-download.com^
 ||mob*.novanewsapp.com^
 ||n*adserv.xyz^
-||mapi-log.qoo*.jp^
 ||mcdp-*.outbrain.com^
 ||mautic.*.vn^
 ||mon*-platform-*.tiktokv.com^
@@ -273,17 +273,18 @@
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||widgets.*.webengage.com^
-||util-*.simply-hentai.com^
 ||tupian888.*.bcebos.com^
 ||uc*.atobo.com^
-||v*-ad.video.yximgs.com^
 ||ulog*.*^
+||v*.denakop.com^
+||w*.*skwai.com^
+||util-*.simply-hentai.com^
+||www.xxmh*.com^
+||v*-ad.video.yximgs.com^
 ||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
-||v*.denakop.com^
-||w*.*skwai.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -296,7 +297,6 @@
 ||zazgbqg*.xyz^
 ||xlog*-*.tiktokv.com^
 ||zbc6hye*.xyz^
-||www.xxmh*.com^
 ||ya*.dwstatic.com^
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
