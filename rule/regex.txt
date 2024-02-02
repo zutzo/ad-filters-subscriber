@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-02 00:09:16
+! Last Modified: 2024-02-02 08:36:07
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -146,6 +146,7 @@
 ||flurry.agentportal-*.yahoodns.net^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||host*.nti.nl^
+||iptracker-lb-*.amazonaws.com^
 ||hstats*.hepsiburada.com^
 ||hads*s.com^
 ||impservice*.youdao.com^
@@ -166,7 +167,6 @@
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||liveweb*.msstatic.com^
-||iptracker-lb-*.amazonaws.com^
 ||js.*2023*.live^
 ||log*-misc-lq.amemv.com^
 ||logger-*.dailymotion.com^
