@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-03 08:35:42
+! Last Modified: 2024-02-03 16:09:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -148,6 +148,7 @@
 ||host*.nti.nl^
 ||iptracker-lb-*.amazonaws.com^
 ||hstats*.hepsiburada.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||hads*s.com^
 ||impservice*.youdao.com^
 ||hn-ping*.hashnode.com^
@@ -180,7 +181,6 @@
 ||mads*z.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||log-*.epicdn.me^
 ||log*-misc-lf.amemv.com^
 ||js.*2023*.xyz^
@@ -224,6 +224,7 @@
 ||promo-*.vercel.app^
 ||pixel-*.rubiconproject.com^
 ||p*-ad-sign.byteimg.com^
+||px*.mediahills.ru^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -240,7 +241,6 @@
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
 ||report.*.qq.com^
-||px*.mediahills.ru^
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
