@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-05 08:36:42
+! Last Modified: 2024-02-05 16:10:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -146,7 +146,9 @@
 ||flurry.agentportal-*.yahoodns.net^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||host*.nti.nl^
+||iptracker-lb-*.amazonaws.com^
 ||hstats*.hepsiburada.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||hads*s.com^
 ||impservice*.youdao.com^
 ||hn-ping*.hashnode.com^
@@ -166,7 +168,6 @@
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||liveweb*.msstatic.com^
-||iptracker-lb-*.amazonaws.com^
 ||js.*2023*.live^
 ||log*-misc-lq.amemv.com^
 ||logger-*.dailymotion.com^
@@ -180,7 +181,6 @@
 ||mads*z.com^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||log-*.epicdn.me^
 ||log*-misc-lf.amemv.com^
 ||js.*2023*.xyz^
@@ -224,10 +224,12 @@
 ||promo-*.vercel.app^
 ||pixel-*.rubiconproject.com^
 ||p*-ad-sign.byteimg.com^
+||px*.mediahills.ru^
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||prebid-*.rubiconproject.com^
+||pxl-*.ozone.ru^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||same*.stockstar.com^
 ||report*.appmetrica.webvisor.com^
@@ -240,11 +242,9 @@
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
 ||report.*.qq.com^
-||px*.mediahills.ru^
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
-||pxl-*.ozone.ru^
 ||rum*.cdnvideo.ru^
 ||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
