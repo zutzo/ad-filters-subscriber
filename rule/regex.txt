@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-06 00:09:05
+! Last Modified: 2024-02-06 08:35:08
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -171,6 +171,7 @@
 ||js.*2023*.live^
 ||log*-misc-lq.amemv.com^
 ||logger-*.dailymotion.com^
+||mapi-log.qoo*.jp^
 ||log*.vietnamplus.vn^
 ||jtbo*.nqxvevk.cn^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -201,7 +202,6 @@
 ||mobileoffers-*-download.com^
 ||mob*.novanewsapp.com^
 ||n*adserv.xyz^
-||mapi-log.qoo*.jp^
 ||mcdp-*.outbrain.com^
 ||mautic.*.vn^
 ||mon*-platform-*.tiktokv.com^
