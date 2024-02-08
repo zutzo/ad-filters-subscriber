@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-08 16:10:11
+! Last Modified: 2024-02-09 00:09:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -62,7 +62,6 @@
 ||batchlogging*-eu.truecaller.com^
 ||api.*.hismarttv.com^
 ||aj3*.bid^
-||beacons*.gvt3.com^
 ||aj1*.online^
 ||ap*.jj20.com^
 ||aem-collector-*.kgslb.com^
@@ -90,9 +89,9 @@
 ||cj1*.online^
 ||browser-intake-*-datadoghq.com^
 ||ce-global-track-*.amazonaws.com^
+||beacons*.gvt3.com^
 ||collector.hamsterix.*^
 ||bj*.9669.cn^
-||counter*.stat.ovh^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||bjkedv*.xyz^
@@ -103,7 +102,6 @@
 ||cdn-adn-*.rayjump.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||bj1*.online^
-||counter*-yadro*-ru.unblocked.lol^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
@@ -115,10 +113,12 @@
 ||dn*.ixinwei.com^
 ||dm-*.toutiao.com^
 ||d*.wanzhuang.com^
+||counter*.stat.ovh^
 ||d*.xinshipu.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||dj1*.online^
 ||display-ad-*.kgslb.com^
+||counter*-yadro*-ru.unblocked.lol^
 ||device-metrics-*.amazon.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ej1*.online^
@@ -260,7 +260,6 @@
 ||static*.365inews.com^
 ||stats2.*.fdnames.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||trk*.vidible.tv^
 ||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
@@ -274,17 +273,18 @@
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||widgets.*.webengage.com^
-||util-*.simply-hentai.com^
 ||tupian888.*.bcebos.com^
 ||uc*.atobo.com^
-||v*-ad.video.yximgs.com^
 ||ulog*.*^
+||v*.denakop.com^
+||w*.*skwai.com^
+||trk*.vidible.tv^
+||util-*.simply-hentai.com^
+||v*-ad.video.yximgs.com^
 ||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
-||v*.denakop.com^
-||w*.*skwai.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
