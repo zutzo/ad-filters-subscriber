@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-10 00:09:20
+! Last Modified: 2024-02-10 08:34:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -168,30 +168,30 @@
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||liveweb*.msstatic.com^
 ||iptracker-lb-*.amazonaws.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||log-*.epicdn.me^
 ||js.*2023*.live^
 ||log*-misc-lq.amemv.com^
 ||logger-*.dailymotion.com^
 ||log*.vietnamplus.vn^
-||jtbo*.nqxvevk.cn^
-||liveme-sensors-collect2-*.amazonaws.com^
-||ja*.gamersky.com^
-||log-*.previewnetworks.com^
-||lively-collect-elb-*.amazonaws.com^
-||lt*.tritondigital.com^
-||maas-*.phunware.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||log-*.epicdn.me^
 ||log*-misc-lf.amemv.com^
 ||js.*2023*.xyz^
+||jtbo*.nqxvevk.cn^
 ||livetracker.*.pangea-cms.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||logservice-*.platform.dbankcloud.cn^
+||liveme-sensors-collect2-*.amazonaws.com^
 ||log*.aliyuncs.com^
 ||js*.abolezi.com^
+||ja*.gamersky.com^
+||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
+||lively-collect-elb-*.amazonaws.com^
 ||log*.byteoversea.com^
+||lt*.tritondigital.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
+||maas-*.phunware.com^
 ||marketplace-*.hyprmx.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mediate-ios-*.hyprmx.com^
