@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-21 00:09:43
+! Last Modified: 2024-02-21 08:35:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||adi*.cnool.net^
@@ -124,7 +124,6 @@
 ||ej1*.online^
 ||eum*.instana.io^
 ||fls-*.amazon.com^
-||gcw*.2liang.cn^
 ||fads*s.com^
 ||fanpingbi*.gaokao.com^
 ||fp-*it*.fengkongcloud.com^
@@ -156,6 +155,7 @@
 ||hstats*.hepsiburada.com^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
+||gcw*.2liang.cn^
 ||gg*.miguvideo.com^
 ||impservice*.yodao.com^
 ||host*.rvshare.com^
@@ -231,7 +231,6 @@
 ||same*.stockstar.com^
 ||report*.appmetrica.webvisor.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
-||sell*.etlong.com^
 ||production-adserver-*.amazonaws.com^
 ||rum*.a.trbcdn.net^
 ||sd.yhzzzs*.com^
@@ -250,6 +249,7 @@
 ||sock*-goguardian.pusher.com^
 ||stat.*.v-56.com^
 ||stats-*.p2pnow.ru^
+||sell*.etlong.com^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
 ||stats*.credit-cooperatif.coop^
