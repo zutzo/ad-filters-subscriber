@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-03-09 16:09:12
+! Last Modified: 2024-03-10 00:08:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||adi*.cnool.net^
@@ -124,7 +124,6 @@
 ||ej1*.online^
 ||eum*.instana.io^
 ||fls-*.amazon.com^
-||gcw*.2liang.cn^
 ||fads*s.com^
 ||fanpingbi*.gaokao.com^
 ||fp-*it*.fengkongcloud.com^
@@ -157,6 +156,7 @@
 ||hstats*.hepsiburada.com^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
+||gcw*.2liang.cn^
 ||gg*.miguvideo.com^
 ||impservice*.yodao.com^
 ||host*.rvshare.com^
@@ -234,9 +234,7 @@
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||sell*.etlong.com^
 ||production-adserver-*.amazonaws.com^
-||sense-*.tapdb.net^
 ||rum*.a.trbcdn.net^
-||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
@@ -256,10 +254,11 @@
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
 ||stats*.credit-cooperatif.coop^
+||sense-*.tapdb.net^
 ||st-*.dynamicyield.com^
 ||stats*.videonow.ru^
 ||static*.365inews.com^
-||stats2.*.fdnames.com^
+||sensorsdata*.read.duokan.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||tracking.*.miui.com^
 ||t*.zcvh.net^
@@ -271,6 +270,7 @@
 ||tracking*.euroads.fi^
 ||tracking-*.trnox.com^
 ||tracker*.qcloud.com^
+||stats2.*.fdnames.com^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||widgets.*.webengage.com^
