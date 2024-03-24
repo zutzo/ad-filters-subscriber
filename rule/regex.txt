@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-03-24 00:08:18
+! Last Modified: 2024-03-24 08:40:13
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||adi*.cnool.net^
@@ -218,7 +218,6 @@
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
 ||piwik.*.vn^
-||production-adserver-*.amazonaws.com^
 ||piwik.*.com.vn^
 ||ping.*.sogou.com^
 ||opnked*.xyz^
@@ -233,6 +232,7 @@
 ||report*.appmetrica.webvisor.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||sell*.etlong.com^
+||production-adserver-*.amazonaws.com^
 ||sense-*.tapdb.net^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
