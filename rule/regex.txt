@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-03-25 16:12:12
+! Last Modified: 2024-03-26 00:10:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||adi*.cnool.net^
@@ -78,29 +78,27 @@
 ||analytics.*.sky.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||bd*-ys.km.com^
+||collector-*.px-client.net^
+||collector-*.us.tvsquared.com^
+||batchlogging*-eu.truecaller.com^
 ||clog*.yuanfudao.com^
 ||collect-v*.51.la^
 ||cj1*.online^
+||browser-intake-*-datadoghq.com^
 ||ce-global-track-*.amazonaws.com^
+||beacons*.gvt3.com^
 ||bdlm*.hc360.com^
-||collector.hamsterix.*^
 ||bj*.9669.cn^
 ||collect-elb-*.amazonaws.com^
+||banner.*.tccapis.com^
 ||collector-*.px-cloud.net^
 ||bjkedv*.xyz^
 ||c*hit.zerkalo.io^
 ||collector-*.tvsquared.com^
-||bj1*.online^
-||collector-*.px-client.net^
-||collector-*.us.tvsquared.com^
-||batchlogging*-eu.truecaller.com^
-||browser-intake-*-datadoghq.com^
-||beacons*.gvt3.com^
-||banner.*.tccapis.com^
-||collector.xhamster*.*^
 ||cas.*.criteo.com^
 ||cdn-adn-*.rayjump.com^
 ||bi-eventtracker-*.amazonaws.com^
+||bj1*.online^
 ||batchlogging*-noneu.truecaller.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||dm*.ppzuowen.com^
@@ -236,7 +234,6 @@
 ||production-adserver-*.amazonaws.com^
 ||sense-*.tapdb.net^
 ||rum*.a.trbcdn.net^
-||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
@@ -259,6 +256,7 @@
 ||st-*.dynamicyield.com^
 ||stats*.videonow.ru^
 ||static*.365inews.com^
+||sensorsdata*.read.duokan.com^
 ||stats2.*.fdnames.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||tracking.*.miui.com^
