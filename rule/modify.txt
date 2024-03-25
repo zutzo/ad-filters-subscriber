@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2024-03-25 00:08:29
+! Last Modified: 2024-03-25 08:37:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||*.cnzz.kld666.com^
@@ -27,6 +27,7 @@
 ||*.edo5.com^
 ||*.adm-cnzz.net^
 ||*.xlmc.sandai.net^
+||*bmwmini.tt.omtrdc.net^
 /^zjtoolbar\./
 ||*-ad.a.yximgs.com^
 /^omgmta\./
@@ -60,6 +61,7 @@
 ||*-ad-sign.byteimg.com^
 ||*.mmkvi.com^
 ||*.nxrhs.com^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 /^adsserving\./
 ||*.qtmojo.cn^
 /^openx\./
