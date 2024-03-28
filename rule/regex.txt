@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-03-28 00:11:12
+! Last Modified: 2024-03-28 08:35:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||adi*.cnool.net^
@@ -225,6 +225,7 @@
 ||p26.gejulm*.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
+||prebid-*.rubiconproject.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||same*.stockstar.com^
 ||report*.appmetrica.webvisor.com^
@@ -240,7 +241,6 @@
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
-||prebid-*.rubiconproject.com^
 ||pxl-*.ozone.ru^
 ||rum*.cdnvideo.ru^
 ||sads*z.com^
@@ -258,6 +258,7 @@
 ||static*.365inews.com^
 ||sensorsdata*.read.duokan.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
+||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||tblog-*.kgslb.com^
 ||thezbpe5*.xyz^
@@ -270,7 +271,6 @@
 ||stats2.*.fdnames.com^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||tracking.*.miui.com^
 ||widgets.*.webengage.com^
 ||tupian888.*.bcebos.com^
 ||uc*.atobo.com^
