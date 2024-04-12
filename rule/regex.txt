@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-04-12 00:08:37
+! Last Modified: 2024-04-12 08:36:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -252,7 +252,6 @@
 ||sd.yhzzzs*.com^
 ||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||tracking.*.miui.com^
 ||stat.*.v-56.com^
 ||t*.zcvh.net^
 ||stats-*.p2pnow.ru^
@@ -260,25 +259,26 @@
 ||stats*.credit-cooperatif.coop^
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
-||tracking*.euroads.fi^
 ||stats2.*.fdnames.com^
 ||tblog-*.kgslb.com^
 ||toujing*.top^
 ||stat*.1internet.tv^
-||tracking-*.trnox.com^
 ||stats*.videonow.ru^
 ||tracker*.qcloud.com^
 ||static*.365inews.com^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
+||tracking.*.miui.com^
 ||widgets.*.webengage.com^
 ||tupian888.*.bcebos.com^
 ||uc*.atobo.com^
+||tracking*.euroads.fi^
 ||ulog*.*^
 ||v*.denakop.com^
 ||w*.*skwai.com^
 ||trk*.vidible.tv^
 ||util-*.simply-hentai.com^
+||tracking-*.trnox.com^
 ||v*-ad.video.yximgs.com^
 ||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
