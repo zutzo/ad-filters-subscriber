@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-04-12 08:36:50
+! Last Modified: 2024-04-12 16:10:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -247,7 +247,6 @@
 ||ssp*.rtb.beeline.ru^
 ||sam*.baby-kingdom.com^
 ||sense-*.tapdb.net^
-||st-*.dynamicyield.com^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||sads*z.com^
@@ -263,8 +262,8 @@
 ||tblog-*.kgslb.com^
 ||toujing*.top^
 ||stat*.1internet.tv^
+||st-*.dynamicyield.com^
 ||stats*.videonow.ru^
-||tracker*.qcloud.com^
 ||static*.365inews.com^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
@@ -280,6 +279,7 @@
 ||util-*.simply-hentai.com^
 ||tracking-*.trnox.com^
 ||v*-ad.video.yximgs.com^
+||tracker*.qcloud.com^
 ||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
