@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-04-16 00:08:52
+! Last Modified: 2024-04-16 08:36:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -79,6 +79,7 @@
 ||analyzer*.fc2.com^
 ||apple.com-*.live^
 ||analytics*.clickdimensions.com^
+||bi-eventtracker-*.amazonaws.com^
 ||analytics.*.sky.com^
 ||batchlogging*-noneu.truecaller.com^
 ||asd8900.oss-*.aliyuncs.com^
@@ -100,7 +101,6 @@
 ||collector-*.tvsquared.com^
 ||cas.*.criteo.com^
 ||cdn-adn-*.rayjump.com^
-||bi-eventtracker-*.amazonaws.com^
 ||bj1*.online^
 ||counter*-yadro*-ru.unblocked.lol^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
@@ -221,31 +221,32 @@
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
 ||piwik.*.vn^
-||report*.appmetrica.webvisor.com^
-||rtbimp-loadbalancer-*.amazonaws.com^
 ||production-adserver-*.amazonaws.com^
-||piwik.*.com.vn^
 ||ping.*.sogou.com^
 ||rum*.a.trbcdn.net^
-||quangcao-*.epicdn.me^
-||rtlog*.tiktokv.com^
-||promo-*.vercel.app^
 ||report.*.qq.com^
-||pixel-*.rubiconproject.com^
 ||px*.mediahills.ru^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
-||qpb*.sohu.com^
 ||prebid-*.rubiconproject.com^
-||pxl-*.ozone.ru^
 ||rum*.cdnvideo.ru^
+||report*.appmetrica.webvisor.com^
+||rtbimp-loadbalancer-*.amazonaws.com^
+||piwik.*.com.vn^
+||quangcao-*.epicdn.me^
+||rtlog*.tiktokv.com^
+||promo-*.vercel.app^
+||pixel-*.rubiconproject.com^
+||qpb*.sohu.com^
+||s*.skencituer.com^
+||pxl-*.ozone.ru^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||sock*-goguardian.pusher.com^
 ||same*.stockstar.com^
 ||sell*.etlong.com^
+||ssp*.rtb.beeline.ru^
 ||sam*.baby-kingdom.com^
 ||sense-*.tapdb.net^
-||s*.skencituer.com^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||sads*z.com^
@@ -260,7 +261,6 @@
 ||stats2.*.fdnames.com^
 ||tblog-*.kgslb.com^
 ||toujing*.top^
-||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
 ||st-*.dynamicyield.com^
 ||stats*.videonow.ru^
