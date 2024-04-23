@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-04-23 00:10:08
+! Last Modified: 2024-04-23 08:37:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -240,46 +240,46 @@
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
 ||pxl-*.ozone.ru^
+||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||sock*-goguardian.pusher.com^
+||stat.*.v-56.com^
 ||same*.stockstar.com^
 ||sell*.etlong.com^
 ||ssp*.rtb.beeline.ru^
+||stat*.1internet.tv^
 ||sam*.baby-kingdom.com^
 ||sense-*.tapdb.net^
+||st-*.dynamicyield.com^
+||static*.365inews.com^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
-||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||stat.*.v-56.com^
+||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||stats-*.p2pnow.ru^
 ||thezbpe5*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
+||tracking*.euroads.fi^
 ||stats2.*.fdnames.com^
 ||tblog-*.kgslb.com^
 ||toujing*.top^
-||stat*.1internet.tv^
-||st-*.dynamicyield.com^
+||tracking-*.trnox.com^
 ||stats*.videonow.ru^
-||static*.365inews.com^
+||tracker*.qcloud.com^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||tracking.*.miui.com^
 ||widgets.*.webengage.com^
 ||tupian888.*.bcebos.com^
 ||uc*.atobo.com^
-||tracking*.euroads.fi^
 ||ulog*.*^
 ||v*.denakop.com^
 ||w*.*skwai.com^
 ||trk*.vidible.tv^
 ||util-*.simply-hentai.com^
-||tracking-*.trnox.com^
 ||v*-ad.video.yximgs.com^
-||tracker*.qcloud.com^
 ||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
