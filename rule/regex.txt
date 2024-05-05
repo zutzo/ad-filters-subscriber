@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-05 00:08:43
+! Last Modified: 2024-05-05 08:39:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -223,25 +223,24 @@
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
 ||piwik.*.vn^
-||production-adserver-*.amazonaws.com^
-||ping.*.sogou.com^
-||rum*.a.trbcdn.net^
-||report.*.qq.com^
-||px*.mediahills.ru^
-||popadex-*.us-east-1.elb.amazonaws.com^
-||pixelapi-*.cs.mysamba.tv^
-||prebid-*.rubiconproject.com^
-||rum*.cdnvideo.ru^
 ||report*.appmetrica.webvisor.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||production-adserver-*.amazonaws.com^
 ||piwik.*.com.vn^
+||ping.*.sogou.com^
+||rum*.a.trbcdn.net^
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
 ||promo-*.vercel.app^
+||report.*.qq.com^
 ||pixel-*.rubiconproject.com^
+||px*.mediahills.ru^
+||popadex-*.us-east-1.elb.amazonaws.com^
+||pixelapi-*.cs.mysamba.tv^
 ||qpb*.sohu.com^
-||s*.skencituer.com^
+||prebid-*.rubiconproject.com^
 ||pxl-*.ozone.ru^
+||rum*.cdnvideo.ru^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||sock*-goguardian.pusher.com^
 ||same*.stockstar.com^
@@ -249,6 +248,7 @@
 ||ssp*.rtb.beeline.ru^
 ||sam*.baby-kingdom.com^
 ||sense-*.tapdb.net^
+||s*.skencituer.com^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||sads*z.com^
