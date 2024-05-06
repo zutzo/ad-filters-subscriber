@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2024-05-06 08:38:17
+! Last Modified: 2024-05-06 16:11:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||*.cnzz.kld666.com^
