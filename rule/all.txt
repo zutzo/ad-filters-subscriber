@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2024-05-14 16:12:15
+! Last Modified: 2024-05-15 00:10:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||1mp.mobi^
@@ -9886,41 +9886,6 @@
 ||accelerantinnovations.actonservice.com^
 ||adlc-exchange.toast.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||ads*.production-public.tubi.io^
-||ads-*-nfl.yinzcam.com^
-||ads*.textra.me^
-||ads*.dfiles.eu^
-||ads.*.yahoo.com^
-||a*.chajiaotong.com^
-||ad*.nexage.com^
-||ac*.786ip.com^
-||aan.amazon.*^
-||ad*.on.cc^
-||ads*.dfiles.ru^
-||ads.livetv*.me^
-||ac*.pingguolv.com^
-||ad.kisstvshow.*^
-||adi*.cnool.net^
-||adcounter*.uptolike.ru^
-||admicro*.vcmedia.vn^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||ad*.ettoday.net^
-||ad-*.amazonaws.com^
-||ads*-normal*.zijieapi.com^
-||ads*-normal-lq.zijieapi.com^
-||ad-*.appacc.dbankedge.cn^
-||ads*.bojijulebu.com^
-||ads-dmp-collect.*.karrotmarket.com^
-||ac*.faxingchina.com^
-||ads*.zijieapi.com^
-||ads.*.kugou.com^
-||163487*.qmgmw.com^
-||ads*-normal-hl.zijieapi.com^
-||ad.*.xiaomi.com^
-||ads*-adnow.com^
-||adcs-*.myappsget.com^
-! 👇This Part Merge from: https://adrules.top/dns.txt
 ||*.cnzz.kld666.com^
 ||*.mxmrt.com^
 ||*.yicang8.com^
@@ -10006,6 +9971,41 @@
 ||*.omega7o.com^
 ||*.pwjhg.com^
 ||*.yongkang6.com^
+! 👇This Part Merge from: https://adrules.top/dns.txt
+||ads*.production-public.tubi.io^
+||ads-*-nfl.yinzcam.com^
+||ads*.textra.me^
+||ads*.dfiles.eu^
+||ads.*.yahoo.com^
+||a*.chajiaotong.com^
+||ad*.nexage.com^
+||ac*.786ip.com^
+||aan.amazon.*^
+||ad*.on.cc^
+||ads*.dfiles.ru^
+||ads.livetv*.me^
+||ac*.pingguolv.com^
+||ad.kisstvshow.*^
+||adi*.cnool.net^
+||adcounter*.uptolike.ru^
+||admicro*.vcmedia.vn^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||ad*.ettoday.net^
+||ad-*.amazonaws.com^
+||ads*-normal*.zijieapi.com^
+||ads*-normal-lq.zijieapi.com^
+||ad-*.appacc.dbankedge.cn^
+||ads*.bojijulebu.com^
+||ads-dmp-collect.*.karrotmarket.com^
+||ac*.faxingchina.com^
+||ads*.zijieapi.com^
+||ads.*.kugou.com^
+||163487*.qmgmw.com^
+||ads*-normal-hl.zijieapi.com^
+||ad.*.xiaomi.com^
+||ads*-adnow.com^
+||adcs-*.myappsget.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||alienateclergy.com^
 ||analytics.dashboard.fingerprint.com^
