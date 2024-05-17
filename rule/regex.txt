@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-17 00:09:43
+! Last Modified: 2024-05-17 08:38:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -80,7 +80,6 @@
 ||analyzer*.fc2.com^
 ||apple.com-*.live^
 ||analytics*.clickdimensions.com^
-||bi-eventtracker-*.amazonaws.com^
 ||analytics.*.sky.com^
 ||batchlogging*-noneu.truecaller.com^
 ||asd8900.oss-*.aliyuncs.com^
@@ -103,6 +102,7 @@
 ||cas.*.criteo.com^
 ||cdn-adn-*.rayjump.com^
 ||collector*.ex.co^
+||bi-eventtracker-*.amazonaws.com^
 ||bj1*.online^
 ||counter*-yadro*-ru.unblocked.lol^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
@@ -224,7 +224,6 @@
 ||player-feedback*.glomex.*^
 ||piwik.*.vn^
 ||report*.appmetrica.webvisor.com^
-||rtbimp-loadbalancer-*.amazonaws.com^
 ||production-adserver-*.amazonaws.com^
 ||piwik.*.com.vn^
 ||ping.*.sogou.com^
@@ -239,17 +238,18 @@
 ||prebid-*.rubiconproject.com^
 ||pxl-*.ozone.ru^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||rtlog*.tiktokv.com^
-||sock*-goguardian.pusher.com^
 ||same*.stockstar.com^
+||rtbimp-loadbalancer-*.amazonaws.com^
 ||sell*.etlong.com^
-||sam*.baby-kingdom.com^
 ||sense-*.tapdb.net^
-||s*.skencituer.com^
 ||rum*.a.trbcdn.net^
-||rum*.cdnvideo.ru^
 ||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
+||rtlog*.tiktokv.com^
+||sock*-goguardian.pusher.com^
+||sam*.baby-kingdom.com^
+||s*.skencituer.com^
+||rum*.cdnvideo.ru^
 ||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||stat.*.v-56.com^
