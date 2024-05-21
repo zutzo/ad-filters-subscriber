@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-21 00:10:58
+! Last Modified: 2024-05-21 08:38:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -132,7 +132,6 @@
 ||fpb*.51edu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||faro-collector-prod-*.grafana.net^
-||gtlpa*.com^
 ||eum*.instana.io^
 ||geoloc*.geo20120530.com^
 ||gcw*.2liang.cn^
@@ -151,27 +150,28 @@
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||host*.nti.nl^
 ||iptracker-lb-*.amazonaws.com^
-||hstats*.hepsiburada.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||hads*s.com^
 ||js.*2023*.live^
 ||impservice*.youdao.com^
 ||hn-ping*.hashnode.com^
 ||iad-*.appboy.com^
-||impservice*.yodao.com^
-||host*.rvshare.com^
-||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||host*.polaroid.com^
 ||host*.carl-ras.dk^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
-||js*.abolezi.com^
 ||host*.ncoi.nl^
 ||ja*.gamersky.com^
+||hostingcloud.*.wasm^
+||gtlpa*.com^
+||hstats*.hepsiburada.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||hads*s.com^
+||impservice*.yodao.com^
+||host*.rvshare.com^
+||js.*2023*.xyz^
+||host*.polaroid.com^
+||js*.abolezi.com^
 ||hbbtv.*.de^
 ||host*.rigbyandpeller.com^
-||hostingcloud.*.wasm^
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||log*-misc-lq.amemv.com^
@@ -203,7 +203,6 @@
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||mobileanalytics.*.amazonaws.com^
-||pangolin-sdk-toutiao*.com^
 ||mistat.*.xiaomi.com^
 ||mobileoffers-*-download.com^
 ||mob*.novanewsapp.com^
@@ -219,6 +218,7 @@
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||pixel*.production-public.tubi.io^
 ||reachableads-av.*.amazonaws.com^
+||pangolin-sdk-toutiao*.com^
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
