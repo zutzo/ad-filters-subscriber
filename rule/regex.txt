@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-29 00:10:06
+! Last Modified: 2024-05-29 08:41:52
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -137,7 +137,6 @@
 ||gcw*.2liang.cn^
 ||fp-*it*.fengkongcloud.com^
 ||gg*.miguvideo.com^
-||hn-ping*.hashnode.com^
 ||gads*s.com^
 ||flurry.agentportal.*.yahoodns.net^
 ||geotargetly-api-*.com^
@@ -158,6 +157,7 @@
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js.*2023*.live^
 ||impservice*.youdao.com^
+||hn-ping*.hashnode.com^
 ||iad-*.appboy.com^
 ||impservice*.yodao.com^
 ||host*.rvshare.com^
