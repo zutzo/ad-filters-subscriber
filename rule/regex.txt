@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-03 00:09:54
+! Last Modified: 2024-06-03 08:39:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -143,6 +143,7 @@
 ||host*.ncoi.nl^
 ||hostingcloud.*.wasm^
 ||gtlpa*.com^
+||hstats*.hepsiburada.com^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
 ||gcw*.2liang.cn^
@@ -160,7 +161,6 @@
 ||host*.rigbyandpeller.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||iptracker-lb-*.amazonaws.com^
-||hstats*.hepsiburada.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||js.*2023*.live^
 ||impservice*.youdao.com^
@@ -227,6 +227,7 @@
 ||n*adserv.com^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
+||prebid-*.rubiconproject.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||reachableads-av.*.amazonaws.com^
 ||same*.stockstar.com^
@@ -246,13 +247,13 @@
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
-||prebid-*.rubiconproject.com^
 ||pxl-*.ozone.ru^
 ||rum*.cdnvideo.ru^
 ||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||sock*-goguardian.pusher.com^
 ||stat.*.v-56.com^
+||t*.zcvh.net^
 ||stats-*.p2pnow.ru^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
@@ -263,44 +264,42 @@
 ||stats2.*.fdnames.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||tracking.*.miui.com^
-||t*.zcvh.net^
 ||tupian888.*.bcebos.com^
+||uc*.atobo.com^
 ||thezbpe5*.xyz^
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
 ||tracking*.euroads.fi^
 ||txhfgwgkwt*.asia^
+||ulog*.*^
 ||trk*.vidible.tv^
 ||tblog-*.kgslb.com^
 ||toujing*.top^
 ||tracking-*.trnox.com^
 ||tracker*.qcloud.com^
+||union*.365inews.com^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||tw*.netcore.co.in^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||widgets.*.webengage.com^
-||uc*.atobo.com^
-||yhsfsdv*.com^
-||ulog*.*^
-||v*.denakop.com^
-||w*.*skwai.com^
-||xlog*-*.tiktokv.com^
-||util-*.simply-hentai.com^
-||www.xxmh*.com^
-||ya*.dwstatic.com^
-||v*-ad.video.yximgs.com^
-||union*.365inews.com^
-||ubacollect-*.cloud.dbankcloud.cn^
-||vns86.oss-*.aliyuncs.com^
-! 👇This Part Merge from: https://adrules.top/dns.txt
-||zbc6hye*.xyz^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||zabdybod*.club^
+||yhsfsdv*.com^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||zazgbqg*.xyz^
+||v*.denakop.com^
+||w*.*skwai.com^
+||xlog*-*.tiktokv.com^
+||zbc6hye*.xyz^
+||util-*.simply-hentai.com^
+||www.xxmh*.com^
+||ya*.dwstatic.com^
+||v*-ad.video.yximgs.com^
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
+||vns86.oss-*.aliyuncs.com^
