@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-18 00:10:40
+! Last Modified: 2024-06-18 08:40:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -143,6 +143,7 @@
 ||fpb*.51edu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||host*.ncoi.nl^
+||hostingcloud.*.wasm^
 ||gtlpa*.com^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
@@ -174,7 +175,6 @@
 ||ifengad.*.ifeng.com^
 ||js*.abolezi.com^
 ||ja*.gamersky.com^
-||hostingcloud.*.wasm^
 ||imp-*.jampp.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
@@ -227,6 +227,7 @@
 ||p*-ad-sign.byteimg.com^
 ||p26.gejulm*.com^
 ||n*adserv.com^
+||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||reachableads-av.*.amazonaws.com^
@@ -244,7 +245,6 @@
 ||promo-*.vercel.app^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
-||popadex-*.us-east-1.elb.amazonaws.com^
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
@@ -267,6 +267,7 @@
 ||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||tupian888.*.bcebos.com^
+||uc*.atobo.com^
 ||thezbpe5*.xyz^
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
@@ -277,23 +278,22 @@
 ||toujing*.top^
 ||tracking-*.trnox.com^
 ||tracker*.qcloud.com^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||tw*.netcore.co.in^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||widgets.*.webengage.com^
-||uc*.atobo.com^
-||yhsfsdv*.com^
-||ulog*.*^
-||v*.denakop.com^
-||w*.*skwai.com^
 ||xlog*-*.tiktokv.com^
+||widgets.*.webengage.com^
 ||util-*.simply-hentai.com^
 ||www.xxmh*.com^
 ||ya*.dwstatic.com^
+||yhsfsdv*.com^
 ||v*-ad.video.yximgs.com^
+||ulog*.*^
 ||union*.365inews.com^
-||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
+||v*.denakop.com^
+||w*.*skwai.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||zbc6hye*.xyz^
 ||zazgiyoh*.world^
