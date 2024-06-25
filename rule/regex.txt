@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-25 00:10:30
+! Last Modified: 2024-06-25 08:39:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -133,33 +133,28 @@
 ||faro-collector-prod-*.grafana.net^
 ||device-metrics-*.amazon.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||host*.nti.nl^
-||fls-*.amazon.com^
-||hn-ping*.hashnode.com^
-||gads*s.com^
-||geotargetly-api-*.com^
-||gscounters.*.gigya.com^
-||host*.carl-ras.dk^
-||fpb*.51edu.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
-||host*.ncoi.nl^
-||gtlpa*.com^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
+||fls-*.amazon.com^
 ||gcw*.2liang.cn^
 ||fp-*it*.fengkongcloud.com^
 ||gg*.miguvideo.com^
-||host*.rvshare.com^
+||hn-ping*.hashnode.com^
+||gads*s.com^
 ||flurry.agentportal.*.yahoodns.net^
-||host*.polaroid.com^
+||geotargetly-api-*.com^
+||gscounters.*.gigya.com^
 ||geoloc*.geostats.ovh^
+||fpb*.51edu.com^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geovisite.ovh^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||hbbtv.*.de^
-||host*.rigbyandpeller.com^
+||gtlpa*.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
+||host*.nti.nl^
 ||iptracker-lb-*.amazonaws.com^
 ||hstats*.hepsiburada.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
@@ -167,13 +162,18 @@
 ||impservice*.youdao.com^
 ||iad-*.appboy.com^
 ||impservice*.yodao.com^
+||host*.rvshare.com^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||host*.polaroid.com^
 ||iwanshang*.asia^
+||host*.carl-ras.dk^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
 ||js*.abolezi.com^
+||host*.ncoi.nl^
 ||ja*.gamersky.com^
+||host*.rigbyandpeller.com^
 ||hostingcloud.*.wasm^
 ||imp-*.jampp.com^
 ||ky891.oss-*.aliyuncs.com^
@@ -187,7 +187,6 @@
 ||mcdp-*.outbrain.com^
 ||mautic.*.vn^
 ||mon*-platform-*.tiktokv.com^
-||ms*.applvn.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||mcs-va-*.tiktokv.com^
 ||matomo.*.vn^
@@ -223,11 +222,11 @@
 ||piwik.*.com.vn^
 ||ping.*.sogou.com^
 ||opnked*.xyz^
+||ms*.applvn.com^
 ||pixel-*.rubiconproject.com^
 ||p*-ad-sign.byteimg.com^
 ||p26.gejulm*.com^
 ||n*adserv.com^
-||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||reachableads-av.*.amazonaws.com^
@@ -236,15 +235,14 @@
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||sell*.etlong.com^
 ||production-adserver-*.amazonaws.com^
-||sense-*.tapdb.net^
 ||rum*.a.trbcdn.net^
-||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
 ||promo-*.vercel.app^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
+||popadex-*.us-east-1.elb.amazonaws.com^
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
@@ -259,9 +257,11 @@
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
 ||stats*.credit-cooperatif.coop^
+||sense-*.tapdb.net^
 ||st-*.dynamicyield.com^
 ||stats*.videonow.ru^
 ||static*.365inews.com^
+||sensorsdata*.read.duokan.com^
 ||stats2.*.fdnames.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||tracking.*.miui.com^
@@ -272,7 +272,6 @@
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
 ||tracking*.euroads.fi^
-||txhfgwgkwt*.asia^
 ||trk*.vidible.tv^
 ||tblog-*.kgslb.com^
 ||toujing*.top^
@@ -283,7 +282,7 @@
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||widgets.*.webengage.com^
 ||uc*.atobo.com^
-||yhsfsdv*.com^
+||txhfgwgkwt*.asia^
 ||ulog*.*^
 ||v*.denakop.com^
 ||w*.*skwai.com^
@@ -301,6 +300,7 @@
 ||zcchyr*.xyz^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||zabdybod*.club^
+||yhsfsdv*.com^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
