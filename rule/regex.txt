@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-26 00:10:58
+! Last Modified: 2024-06-26 08:39:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -233,7 +233,6 @@
 ||same*.stockstar.com^
 ||report*.appmetrica.webvisor.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
-||sell*.etlong.com^
 ||production-adserver-*.amazonaws.com^
 ||rum*.a.trbcdn.net^
 ||sd.yhzzzs*.com^
@@ -251,18 +250,19 @@
 ||rum*.cdnvideo.ru^
 ||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||sock*-goguardian.pusher.com^
 ||stat.*.v-56.com^
 ||stats-*.p2pnow.ru^
-||ssp*.rtb.beeline.ru^
-||stat*.1internet.tv^
+||sell*.etlong.com^
 ||stats*.credit-cooperatif.coop^
 ||sense-*.tapdb.net^
+||sensorsdata*.read.duokan.com^
+||stats2.*.fdnames.com^
+||sock*-goguardian.pusher.com^
+||ssp*.rtb.beeline.ru^
+||stat*.1internet.tv^
 ||st-*.dynamicyield.com^
 ||stats*.videonow.ru^
 ||static*.365inews.com^
-||sensorsdata*.read.duokan.com^
-||stats2.*.fdnames.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||tracking.*.miui.com^
 ||t*.zcvh.net^
@@ -277,7 +277,6 @@
 ||toujing*.top^
 ||tracking-*.trnox.com^
 ||tracker*.qcloud.com^
-||tw*.netcore.co.in^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||widgets.*.webengage.com^
@@ -294,6 +293,7 @@
 ||union*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
+||tw*.netcore.co.in^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||zbc6hye*.xyz^
 ||zazgiyoh*.world^
