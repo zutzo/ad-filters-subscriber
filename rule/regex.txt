@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-29 08:39:22
+! Last Modified: 2024-06-29 16:11:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||ads*.production-public.tubi.io^
@@ -131,28 +131,34 @@
 ||faro-collector-prod-*.grafana.net^
 ||device-metrics-*.amazon.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
+||host*.nti.nl^
+||fls-*.amazon.com^
+||hn-ping*.hashnode.com^
+||gads*s.com^
+||geotargetly-api-*.com^
+||gscounters.*.gigya.com^
+||host*.carl-ras.dk^
+||fpb*.51edu.com^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
+||host*.ncoi.nl^
+||hostingcloud.*.wasm^
+||gtlpa*.com^
 ||hads*s.com^
 ||geoloc*.geo20120530.com^
-||fls-*.amazon.com^
 ||gcw*.2liang.cn^
 ||fp-*it*.fengkongcloud.com^
 ||gg*.miguvideo.com^
-||hn-ping*.hashnode.com^
-||gads*s.com^
+||host*.rvshare.com^
 ||flurry.agentportal.*.yahoodns.net^
-||geotargetly-api-*.com^
-||gscounters.*.gigya.com^
+||host*.polaroid.com^
 ||geoloc*.geostats.ovh^
-||fpb*.51edu.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geovisite.ovh^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||hbbtv.*.de^
-||gtlpa*.com^
+||host*.rigbyandpeller.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||host*.nti.nl^
 ||iptracker-lb-*.amazonaws.com^
 ||hstats*.hepsiburada.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
@@ -160,19 +166,13 @@
 ||impservice*.youdao.com^
 ||iad-*.appboy.com^
 ||impservice*.yodao.com^
-||host*.rvshare.com^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
-||host*.polaroid.com^
 ||iwanshang*.asia^
-||host*.carl-ras.dk^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
 ||js*.abolezi.com^
-||host*.ncoi.nl^
 ||ja*.gamersky.com^
-||host*.rigbyandpeller.com^
-||hostingcloud.*.wasm^
 ||imp-*.jampp.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
@@ -185,6 +185,7 @@
 ||mcdp-*.outbrain.com^
 ||mautic.*.vn^
 ||mon*-platform-*.tiktokv.com^
+||ms*.applvn.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||mcs-va-*.tiktokv.com^
 ||matomo.*.vn^
@@ -220,85 +221,84 @@
 ||piwik.*.com.vn^
 ||ping.*.sogou.com^
 ||opnked*.xyz^
-||ms*.applvn.com^
 ||pixel-*.rubiconproject.com^
 ||p*-ad-sign.byteimg.com^
 ||p26.gejulm*.com^
 ||n*adserv.com^
+||popadex-*.us-east-1.elb.amazonaws.com^
 ||pixelapi-*.cs.mysamba.tv^
+||prebid-*.rubiconproject.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||reachableads-av.*.amazonaws.com^
 ||same*.stockstar.com^
 ||report*.appmetrica.webvisor.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||sell*.etlong.com^
 ||production-adserver-*.amazonaws.com^
+||sense-*.tapdb.net^
 ||rum*.a.trbcdn.net^
+||sensorsdata*.read.duokan.com^
 ||sd.yhzzzs*.com^
 ||quangcao-*.epicdn.me^
 ||rtlog*.tiktokv.com^
 ||promo-*.vercel.app^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
-||popadex-*.us-east-1.elb.amazonaws.com^
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||s*.skencituer.com^
-||prebid-*.rubiconproject.com^
 ||pxl-*.ozone.ru^
 ||rum*.cdnvideo.ru^
 ||sads*z.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
+||sock*-goguardian.pusher.com^
 ||stat.*.v-56.com^
 ||stats-*.p2pnow.ru^
-||sell*.etlong.com^
-||stats*.credit-cooperatif.coop^
-||sense-*.tapdb.net^
-||sensorsdata*.read.duokan.com^
-||stats2.*.fdnames.com^
-||sock*-goguardian.pusher.com^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
+||stats*.credit-cooperatif.coop^
 ||st-*.dynamicyield.com^
 ||stats*.videonow.ru^
 ||static*.365inews.com^
+||stats2.*.fdnames.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||tupian888.*.bcebos.com^
+||uc*.atobo.com^
 ||thezbpe5*.xyz^
 ||tracking-v*.a.run.app^
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
 ||tracking*.euroads.fi^
+||txhfgwgkwt*.asia^
+||ulog*.*^
 ||trk*.vidible.tv^
 ||tblog-*.kgslb.com^
 ||toujing*.top^
 ||tracking-*.trnox.com^
 ||tracker*.qcloud.com^
+||ubacollect-*.cloud.dbankcloud.cn^
+||tw*.netcore.co.in^
 ||track.*.roku.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
-||widgets.*.webengage.com^
-||uc*.atobo.com^
-||txhfgwgkwt*.asia^
-||ulog*.*^
-||v*.denakop.com^
-||w*.*skwai.com^
 ||xlog*-*.tiktokv.com^
+||widgets.*.webengage.com^
 ||util-*.simply-hentai.com^
 ||www.xxmh*.com^
 ||ya*.dwstatic.com^
+||yhsfsdv*.com^
 ||v*-ad.video.yximgs.com^
 ||union*.365inews.com^
-||ubacollect-*.cloud.dbankcloud.cn^
 ||vns86.oss-*.aliyuncs.com^
-||tw*.netcore.co.in^
+||v*.denakop.com^
+||w*.*skwai.com^
 ! 👇This Part Merge from: https://adrules.top/dns.txt
 ||zbc6hye*.xyz^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||zabdybod*.club^
-||yhsfsdv*.com^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
